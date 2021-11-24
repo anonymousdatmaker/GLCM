@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'GLCMPythonFinal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D676AEC472C4CC8826CD4052CCD8A92 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67C419D898AD47FA949C95ACDDF80B9F }}
